@@ -1,0 +1,9 @@
+food = 'salmon'
+is_delicious = true
+food = 'king crab'
+num2 = 2
+num7 = 7
+quotient = num7 / num2 //quotient will result in 3.5
+songs = ['Ramble On', 'Ants Marching', 'Moonage Daydream']
+songs.shift //will result in songs = ['Ants Marching', 'Moonage Daydream']
+food.length //will result in 9 from 'king crab' since food variable was reassigned to that
