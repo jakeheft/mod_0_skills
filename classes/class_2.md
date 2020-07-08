@@ -9,6 +9,6 @@
 
 ### methods:
 - `introduce_special` : changes `favorite_dish`
-- `offer_dessert_promo` :increases `avg_dollar_spend` **&** changes `gets_dessert = true`
+- `offer_dessert_promo` : increases `avg_dollar_spend` **&** changes `gets_dessert = true`
 - `deliver_meal` : brings meal to guest, increases `current_satisfaction`
 - `initiate_text_res` : implement easy text reservation system, changes `makes_reservations = true`
